@@ -70,7 +70,7 @@ h1 {
   top: 17px;
   left: 58%;
   transform: translate(0, -50%);
-  color: white;
+  color: yellow;
 }
 
 .input:focus {
