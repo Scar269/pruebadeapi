@@ -62,7 +62,6 @@ h1 {
   border: solid 1px #333;
   transition: all .2s ease-in-out;
   outline: none;
-  opacity: 0.8;
 }
 
 .container-input svg {
